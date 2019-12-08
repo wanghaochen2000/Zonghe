@@ -22,7 +22,7 @@
     变成字符串保存在文件中，读取也是从文件中读取然后返回到gui界面。
 四 流程图
 --
-  ![image](https://github.com/wanghaochen2000/Zonghe/blob/master/捕1获.JPG)
+  ![image](https://github.com/wanghaochen2000/Zonghe/blob/master/1234.jpg)
 
 五 核心代码
 --
@@ -68,7 +68,7 @@
 六 系统运行截图
 --
    ![image](https://github.com/wanghaochen2000/Zonghe/blob/master/gdg.jpg)
-   ![image](https://github.com/wanghaochen2000/Zonghe/blob/master/捕获.JPG)
+   ![image](https://github.com/wanghaochen2000/Zonghe/blob/master/123.JPG)
  
  
 七 编程感想
